@@ -1,0 +1,116 @@
+button{
+    cursor: pointer;
+}
+
+.input-container{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding-bottom: 50px;
+}
+
+.input-container > input{
+    padding: 5px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.input-container > input:nth-child(1){
+    outline: none;
+    border-radius: 6px;
+    border: 1px solid #D1D5DB;
+    padding: 9px 13px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+    flex-grow: 1;
+}
+
+.input-container > input:nth-child(2){
+    outline: none;
+    border: 1px solid rgba(0, 0, 0, 0.39);
+    border-radius: 5px;
+    background-color: #141413;
+    color: #FAFAF8;
+    padding: 5px 15px;
+    font-family: Inter, sans-serif;
+    cursor: pointer;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    padding: 50px 25px;
+}
+
+ul,ol{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.get-recipe-container{
+    min-width: 450px;
+    max-width: 1000px;
+    margin-top: 25px;
+    display: flex;
+    padding: 25px 15px;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #F0EFEB;
+    border-radius: 8px;
+}
+
+.get-recipe-container > .get-recipe-text-container{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    
+}
+
+.get-recipe-text-container > span:nth-child(1){
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.get-recipe-text-container > span:nth-child(2){
+    color: #6B7280;
+    font-size: 13px;
+}
+
+.get-recipe-container > button {
+    background-color: #D17557;
+    color: #FAFAF8;
+    padding: 9px 15px;
+    border: none;
+    border-radius: 6px;
+}
+
+.chef-claude-recipe-container{
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+#recipe-description{
+    color: #475467;
+}
+
+#recipe-title-text-big{
+    font-size: 22px;
+    font-weight: 500;
+    color: #141413;
+}
+
+#recipe-title-text-small{
+    font-size: 16px;
+    font-weight: 400;
+    color: #475467;
+}
+
+.center-recipe{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
