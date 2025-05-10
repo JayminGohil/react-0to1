@@ -3,11 +3,7 @@
 ![](https://img.shields.io/github/forks/JayminGohil/react-0to1)
 ![](https://img.shields.io/github/stars/JayminGohil/react-0to1)
 
-    Welcome to my React Projects repository! This is my personal learning journey where I go from knowing little or nothing about React to building full-fledged apps. The goal of this repository is to document and share my progress step by step—from the very basics to more advanced concepts.
-
-<center>
-<img src="https://assets.stickpng.com/images/62a74dfe223343fbc2207d02.png">
-</center>
+Welcome to my React Projects repository! This is my personal learning journey where I go from knowing little or nothing about React to building full-fledged apps. The goal of this repository is to document and share my progress step by step—from the very basics to more advanced concepts.
 
 # Projects List: 0 to 1
 
@@ -20,3 +16,8 @@ AI Chef – A react application that allows users to input a list of ingredients
 Tenzies – A simple dice game built with React where players roll dice     until all show the same number, with the option to hold individual dice to lock their values.
 
 - 👉 [Take Me There](./tenzies/)
+
+## [3. Assembly: Endgame](./assembly_endgame/)
+Assembly: Endgame is a twist on Hangman where each wrong guess kills off a beloved programming language—eight flops and Assembly is the last one standing!
+
+- 👉 [Take Me There](./assembly_endgame/)

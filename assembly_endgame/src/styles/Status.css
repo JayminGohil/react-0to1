@@ -1,0 +1,27 @@
+.status-bar{
+  height: 75px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+  color: rgba(249, 244, 218, 1);
+  background-color: transparent;
+  padding: 10px 5px;
+  border-radius: 5px;
+  margin-top: 5px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.status-bar.won{
+  background-color: rgba(16, 169, 91, 1);
+}
+
+.status-bar.lost{
+  background-color: rgba(186, 42, 42, 1);
+}
+.status-bar.farewell{
+  background-color: rgba(122, 94, 167, 1);
+}

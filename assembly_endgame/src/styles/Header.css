@@ -1,0 +1,18 @@
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 10px;
+}
+
+header > span:nth-of-type(1){
+    color: rgba(249, 244, 218, 1);
+    font-size: 20px;
+    font-weight: 600;
+}
+
+header > span:nth-of-type(2){
+    color: rgba(142, 142, 142, 1);
+}
