@@ -13,6 +13,7 @@ A simple Tic-Tac-Toe game built with React, allowing two players to take turns m
 ### 2. Winning State
 <center>
     <img src="./screenshots/2.png" />
+    <img src="./screenshots/win.gif" />
 </center>
 
 ### 3. Draw/Tie State
