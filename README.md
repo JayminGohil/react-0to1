@@ -21,3 +21,8 @@ Tenzies – A simple dice game built with React where players roll dice     unti
 Assembly: Endgame is a twist on Hangman where each wrong guess kills off a beloved programming language—eight flops and Assembly is the last one standing!
 
 - 👉 [Take Me There](./assembly_endgame/)
+
+## [4. Tic Tac Toe](./tic_tac_toe/)
+A simple Tic-Tac-Toe game built with React, allowing two players to take turns marking X or O on a 3x3 grid. The game detects the winner or a draw and allows for a new game reset.
+
+- 👉 [Take Me There](./tic_tac_toe/)

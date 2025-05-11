@@ -1,0 +1,18 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+header>img{
+    max-width: 35px;
+}
+
+
+header>span{
+    font-size: 25px;
+    font-weight: 600;
+    color: #f1f1f1;
+}
