@@ -26,3 +26,10 @@ Assembly: Endgame is a twist on Hangman where each wrong guess kills off a belov
 A simple Tic-Tac-Toe game built with React, allowing two players to take turns marking X or O on a 3x3 grid. The game detects the winner or a draw and allows for a new game reset.
 
 - 👉 [Take Me There](./tic_tac_toe/)
+
+## [3. Memory Flash](./memory_flash/)
+A fast-paced memory challenge game where 5 random letters or numbers flash briefly on the screen, and the player must recall and type them correctly.
+
+- 👉 [Take Me There](./memory_flash/)
+
+
