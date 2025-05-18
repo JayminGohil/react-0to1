@@ -27,9 +27,17 @@ A simple Tic-Tac-Toe game built with React, allowing two players to take turns m
 
 - 👉 [Take Me There](./tic_tac_toe/)
 
-## [3. Memory Flash](./memory_flash/)
+## [5. Memory Flash](./memory_flash/)
 A fast-paced memory challenge game where 5 random letters or numbers flash briefly on the screen, and the player must recall and type them correctly.
 
 - 👉 [Take Me There](./memory_flash/)
 
+## [6. React Components](https://github.com/JayminGohil/React_Components)
+Made easy reusable react components from scratch which includes Badges, Banners, Card, Testimonials, Tooltip and Toast.
 
+- 👉 [Take Me There](https://github.com/JayminGohil/React_Components)
+
+## [7. #RedLine](https://github.com/JayminGohil/React_Redline)
+A react app that lets you view supercars available to rent and book them. Made to practice react router, mocking APIs using MirageJS.
+
+- 👉 [Take Me There](https://github.com/JayminGohil/React_Redline)
